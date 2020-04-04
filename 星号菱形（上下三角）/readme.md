@@ -1,6 +1,4 @@
-一种输出一系列如下图形的较好解法
-
-![image-20200405004208888](C:\Users\William\AppData\Roaming\Typora\typora-user-images\image-20200405004208888.png)
+### 一种输出一系列以*号组成的菱形（上下三角形）的较好解法
 
 
 
